@@ -1,7 +1,7 @@
 # AngryBirds
 This repository contains a clone of the popular game Angry Birds implemented in JavaScript.
 
-![Screenshot](/AngryBirdsdoc/screenshot_01.png)
+![Screenshot](/AngryBirds/screenshot_01.png)
 
 # How to Play
 Clone this repository or download the source code as a ZIP file.
